@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://58.242.43.42:41267/GuoTouXinJi.ipa</string>
+					<string>http://58.242.43.42:41267/xj_pro.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.sdicxinji.mobileinfomationization</string>
 				<key>bundle-version</key>
-				<string>3.3</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>智能矿山平台</string>
+				<string>国投新集移动信息化</string>
 			</dict>
 		</dict>
 	</array>
